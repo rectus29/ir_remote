@@ -1,2 +1,2 @@
-# catspod
-arduino based cat automatic feeder
+# ir_remote
+arduino based ir remote for a fan
